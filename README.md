@@ -1,4 +1,4 @@
-# Hi there, I'm Devansh 👋
+# Hi there, I'm Juanma 👋
 
 - 🌱 I'm currently learning Web Development and Machine Learning
 - ➡️ I'm looking to collaborate on Web Dev Projects 
